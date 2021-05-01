@@ -52,6 +52,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=araujoyuri&theme=juicyfresh&no-bg=true" />
 
 
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?araujoyuri)
+
 -----
 Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
 
