@@ -68,6 +68,6 @@
 ![](https://komarev.com/ghpvc/?username=araujoyuri&label=PROFILE+VIEWS)
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
+Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge), [Jiji C.](https://github.com/DataOnATangent)
 
 Last Edited on: 01/05/2021
