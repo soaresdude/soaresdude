@@ -54,7 +54,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?araujoyuri&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=araujoyuri&label=PROFILE+VIEWS)
 
 -----
 Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
