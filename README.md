@@ -16,8 +16,8 @@
 
 ***About me ....***
 
-✔ I’m currently developing a logistics system for <a href="http://mimic.com.br" target="_blank">Mimic</a><br>
-✔ I’m currently learning about Kafka, Spark and Kubernetes<br>
+💻 I’m currently developing a logistics system for <a href="http://mimic.com.br" target="_blank">Mimic</a><br>
+📚 I’m currently learning about Kafka, Spark and Kubernetes<br>
 <br><br>
  
 ***Tech stack...***
