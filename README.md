@@ -14,7 +14,7 @@
 
 <h3> 👨‍💻 &nbsp;About me</h3>
 
-💻 I’m currently developing a logistics system for <a href="http://mimic.com.br" target="_blank">Mimic</a><br>
+💻 I’m currently helping develop a logistics system for <a href="http://mimic.com.br" target="_blank">Mimic</a><br>
 📚 I’m currently learning about Kafka, Spark and Kubernetes<br>
 <br><br>
  
