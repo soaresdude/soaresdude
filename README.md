@@ -8,7 +8,7 @@
 <p align="center">
   <em>
     Hello, I am Yuri a software developer from Brasil 🇧🇷. <br>
-    I have more than 4 years with software development experience focusing data and web solutions. On the last year I fell in love with distributed systems and it's challenges and now I'm focusing on learning more about data streaming and architectural patterns.
+    I have more than 4 years of experience with software development focusing on data and web solutions. During this time I fell in love with distributed systems and it's challenges, now I'm focusing on data streaming and architectural patterns. 
   </em> 
   <br>
 </p>
