@@ -15,7 +15,7 @@
 <h3> 👨‍💻 &nbsp;About me</h3>
 
 💻 I’m currently helping develop a logistics system for <a href="http://mimic.com.br" target="_blank">Mimic</a><br>
-🐍:green_heart: Python is love<br>
+🐍 Python is love :green_heart:<br>
 📚 I’m currently learning about Kafka, Spark and Kubernetes<br>
 <br><br>
  
