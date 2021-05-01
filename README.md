@@ -12,30 +12,42 @@
 </p>
 <br><br>
 
-***About me...***
+<h3> 👨‍💻 &nbsp;About me</h3>
 
 💻 I’m currently developing a logistics system for <a href="http://mimic.com.br" target="_blank">Mimic</a><br>
 📚 I’m currently learning about Kafka, Spark and Kubernetes<br>
 <br><br>
  
-***Tech stack...***
+<h3> 🛠 &nbsp;Tech Stack</h3>
 <p align="left">
   
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"> </code>
-  <code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> </code>
-  <code> <span>AWS DynamoDB <img height="50" src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg"> </span></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+- Languages 🗣️
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- Frameworks 🧰 &nbsp;
+  ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+- Platforms 🏗️ &nbsp;
+  ![AWS Kinesis](https://img.shields.io/badge/aws%20kinesis-orange?style=for-the-badge&logo=kinesis&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+  ![AWS ECS](https://img.shields.io/badge/AWS%20ECS-E25A1C?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+  ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-E25A1C?style=for-the-badge&logo=amazon-lambda&logoColor=white)
+  ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- 🏬 Databases &nbsp;
+  ![DynamoDB](https://img.shields.io/badge/dynamodb-blue?style=for-the-badge&logo=Amazon-Dynamodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Elastic Search](https://img.shields.io/badge/elastic%20search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+- Tools ⚙️ &nbsp;
+  ![Poetry](https://img.shields.io/badge/poetry-blue?style=for-the-badge&logo=origami&logoColor=white)
+  ![Gitlab CI/CD](https://img.shields.io/badge/gitlab%20CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+- Cloud ☁️ &nbsp;
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
   <hr>
  
