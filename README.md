@@ -32,6 +32,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> </code>
+  <code> <span>AWS DynamoDB <img height="50" src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg"> </span></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> </code>
