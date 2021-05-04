@@ -38,7 +38,7 @@
   ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-E25A1C?style=for-the-badge&logo=amazon-lambda&logoColor=white)
   ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-- 🏬 Databases &nbsp;
+- Databases 🏬 &nbsp;
   ![DynamoDB](https://img.shields.io/badge/dynamodb-blue?style=for-the-badge&logo=Amazon-Dynamodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
