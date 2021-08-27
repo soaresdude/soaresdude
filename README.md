@@ -14,9 +14,9 @@
 
 <h3> 👨‍💻 &nbsp;About me</h3>
 
-💻 I’m currently helping develop a logistics system for <a href="http://mimic.com.br" target="_blank">Mimic</a><br>
+💻 I’m currently helping develop a next level logistics system for <a href="https://www.zak.app/" target="_blank">Zak</a><br>
 🐍 Python is love :green_heart:<br>
-📚 I’m currently learning about Kafka, Spark and Kubernetes<br>
+📚 I’m also learning about Kafka, Spark and Kubernetes<br>
 <br><br>
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
