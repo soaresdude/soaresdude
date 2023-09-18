@@ -7,14 +7,13 @@
 
 <p align="center">
     Hello, my name's Yuri, a software developer from Brasil <img height="15" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/273/flag-brazil_1f1e7-1f1f7.png">. <br>
-    I have more than 4 years of experience with software development focusing on data processing and distributed solutions. During this time I fell in love with distributed systems and it's challenges, now I'm focusing on data streaming and AWS. 
+    I have more than 6 years of experience with software development focusing on data processing and distributed solutions. During this time I fell in love with distributed systems and it's challenges, now I'm focusing on data streaming and AWS. 
   <br>
 </p>
 <br><br>
 
 <h3> 👨‍💻 &nbsp;About me</h3>
 
-💻 I’m currently helping develop a next level logistics system for <a href="https://www.zak.app/" target="_blank">Zak</a><br>
 🐍 Python is love :green_heart:<br>
 📚 I’m also learning about Kafka, Spark and Kubernetes<br>
 <br><br>
