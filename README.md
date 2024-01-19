@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Yuri </h1>
 <h3 align="center">Backend Developer | Data Engineer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/yuri-araujo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/soaresdude" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
@@ -51,22 +51,22 @@
   
   <hr>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araujoyuri&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=araujoyuri&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soaresdude&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soaresdude&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=araujoyuri&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=soaresdude&theme=juicyfresh&no-bg=true" />
 
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=araujoyuri&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=soaresdude&label=PROFILE+VIEWS)
 
 -----
-Credits: [Yuri Araújo](https://github.com/araujoyuri)
+Credits: [Yuri Soares](https://github.com/soaresdude)
 
 Last Edited on: 01/05/2021
